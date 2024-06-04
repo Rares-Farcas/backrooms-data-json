@@ -14,3 +14,11 @@ This json includes:
  - Level entities
  - Level entrances
  - Level exites  
+
+
+
+# TODO List
+ - Images ("image": "url" in the json)
+ - If the level is canon
+ - Maybe the items and the entities' data (json)
+ - (feel free to add here more suggestions and ideas)
